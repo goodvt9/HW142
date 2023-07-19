@@ -68,6 +68,6 @@ capybaraImageView.addSubview(emojiLabel)
 //底圖邊框樣式
 SetBGImageViewStyle()
 
-//顯示底圖
+//顯示結果
 capybaraImageView
 
